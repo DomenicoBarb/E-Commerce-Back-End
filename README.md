@@ -19,6 +19,8 @@ A back end application for an e-commerce site. Using Express.js (Node.js), doten
 
 1. Clone repository locally.
 2. Type "npm i" into your terminal (within the E-Commerce-Back-End folder) to install dependencies.
+3. Change the name of the .env.example file to just .env
+4. Change the contents of the new .env file, refer to comments within file for further instruction
 
 ## Usage:
 
