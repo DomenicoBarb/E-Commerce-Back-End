@@ -17,14 +17,14 @@ A back end application for an e-commerce site. Using Express.js (Node.js), doten
 
 ## Installation:
 
-Clone repository locally.
-Type "npm i" into your terminal (within the E-Commerce-Back-End folder) to install dependencies.
+1. Clone repository locally.
+2. Type "npm i" into your terminal (within the E-Commerce-Back-End folder) to install dependencies.
 
 ## Usage:
 
-Type "mysql -u root -p" (if you have a password, if not remove the "-p") into the terminal and then type "source ./db/schema.sql" to create a database.
-Then type the command "npm run seed" in the terminal to seed the database.
-Type "node server" to run the application.
+1. Type "mysql -u root -p" (if you have a password, if not remove the "-p") into the terminal and then type "source ./db/schema.sql" to create a database.
+2. Then type the command "npm run seed" in the terminal to seed the database.
+3. Type "node server" to run the application.
 
 ## Screenshot:
 ![Screenshot of Application](./assets/images/screenshot.png)
