@@ -33,7 +33,7 @@ A back end application for an e-commerce site. Using Express.js (Node.js), doten
 ![Screenshot of Application](./assets/images/screenshot.png)
 
 ## Demo:
-https://user-images.githubusercontent.com/119437696/228035317-248a04ba-c45e-4c6c-9e4b-c90acdabd57e.mov
+https://user-images.githubusercontent.com/119437696/228036870-3459bc7b-0655-4d3a-91c7-d3cc0da9758d.mp4
 
 ## License
 
